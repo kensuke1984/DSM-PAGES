@@ -2,7 +2,7 @@
 web pages in dsm at www-solid.
 
 
-This repository is for [][dsm]
+This repository is for [web pages][dsm]
 
 
 
